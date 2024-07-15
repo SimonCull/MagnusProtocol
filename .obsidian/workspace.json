@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "1d876820226eb438",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f0a71050e62388f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda21537c898a8bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ea8cca8ea5e4530",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68abb1df0e7c422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4768987322b3a978",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3defa5bbadd6b05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dafc1aaf776e30e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48d193064b11c5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e689abaf79a9be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1880b8040aee9dd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df06fb88e7561fa4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44ad2389b202653a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13f582d715140ec2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bda21537c898a8bb",
+  "lastOpenFiles": [
+    "MagnusProtocol",
+    "Untitled.canvas",
+    "Characters/Other/Teddy.md",
+    "Episodes/Episode 9.md",
+    "Episodes/Episode 8.md",
+    "Episodes/Episode 7.md",
+    "Episodes/Episode 6.md",
+    "Episodes/Episode 5.md",
+    "Episodes/Episode 4.md",
+    "Episodes/Episode 3.md",
+    "Episodes/Episode 2.md",
+    "Episodes/Episode 1.md",
+    "Items/Computer - FR3-d1.md",
+    "Characters/Recurring/Computer - Norris.md",
+    "Characters/Recurring/Computer - Chester.md",
+    "Characters/Recurring/Computer - Augustus.md",
+    "Characters/Other/Mr Bonzo.md",
+    "Characters/Other/Nigel Dickerson.md",
+    "Characters/Main/Lena Kelley.md",
+    "Characters/Main/Samama Khalid.md",
+    "Characters/Main/Gwendolyn Bouchard.md",
+    "Characters/Main/Colin Becher.md",
+    "Characters/Main/Celia Ripley.md",
+    "Characters/Main/Alice Dyer.md",
+    "Items",
+    "Characters/Other/Georgie Barker.md",
+    "Characters/Other/Gertrude Robinson.md",
+    "Characters/Other/Gerard Keay.md",
+    "Locations/Other",
+    "Locations/Recurring",
+    "Locations/Main",
+    "Locations",
+    "Entities",
+    "Episodes",
+    "Characters/Other",
+    "Characters/Recurring",
+    "Characters/Main"
+  ]
+}
