@@ -5,34 +5,41 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Characters/Main  ",
+      "query": "path:Episodes  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:Characters/Recurring  ",
+      "query": "path:Characters/Main  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:Characters/Other  ",
+      "query": "path:Locations/Main  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "path:Locations  ",
+      "query": "path:Characters/Other  ",
       "color": {
         "a": 1,
-        "rgb": 199676
+        "rgb": 13524182
+      }
+    },
+    {
+      "query": "path:Cases  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
@@ -41,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 12.2837370242215,
-  "linkStrength": 1,
-  "linkDistance": 218,
-  "scale": 0.8276068547580292,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.607266435986159,
+  "repelStrength": 16.0899653979239,
+  "linkStrength": 0.825259515570934,
+  "linkDistance": 30,
+  "scale": 0.6711870912854263,
+  "close": true
 }

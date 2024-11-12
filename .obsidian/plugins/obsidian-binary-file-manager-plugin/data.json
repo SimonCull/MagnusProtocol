@@ -1,0 +1,11 @@
+{
+  "autoDetection": true,
+  "extensions": [
+    "pdf",
+    "xlsx"
+  ],
+  "folder": "Transcripts/Metadata",
+  "filenameFormat": "INFO_{{NAME}}_{{EXTENSION:UP}}",
+  "templatePath": "Scripts/Episode Template.md",
+  "useTemplater": true
+}

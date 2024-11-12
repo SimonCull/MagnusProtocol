@@ -1,1 +1,0 @@
-Employee of [[Office of Incident Assessment and Response]]

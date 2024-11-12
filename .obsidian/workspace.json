@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Other/Needles.md",
+                "file": "Characters/Main/Alice Dyer.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Alice Dyer"
+            }
+          },
+          {
+            "id": "538543fd15e8aab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Main/Colin Becher.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colin Becher"
+            }
+          },
+          {
+            "id": "dd72629daafca14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Main/Gwendolyn Bouchard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gwendolyn Bouchard"
+            }
+          },
+          {
+            "id": "bb084b4c69162a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Main/Lena Kelley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lena Kelley"
+            }
+          },
+          {
+            "id": "a1188d66fe1d2909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Actors/Anusia Battersby.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anusia Battersby"
+            }
+          },
+          {
+            "id": "f306bf19d77da189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripts/Character Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Template"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -39,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +129,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Other/Needles.md",
+                "file": "Characters/Actors/Anusia Battersby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +172,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Anusia Battersby"
             }
           },
           {
@@ -102,10 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Other/Needles.md",
+                "file": "Characters/Actors/Anusia Battersby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Anusia Battersby"
             }
           },
           {
@@ -116,7 +199,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,11 +210,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Other/Needles.md"
-              }
+                "file": "Characters/Actors/Anusia Battersby.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Anusia Battersby"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,46 +231,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "hide-folders:Show hidden folders": false
     }
   },
-  "active": "bda21537c898a8bb",
+  "active": "f306bf19d77da189",
   "lastOpenFiles": [
-    "Characters/Other/Mr Bonzo.md",
-    "MagnusProtocol",
-    "Untitled.canvas",
-    "Characters/Other/Teddy.md",
-    "Episodes/Episode 9.md",
-    "Episodes/Episode 8.md",
-    "Episodes/Episode 7.md",
-    "Episodes/Episode 6.md",
-    "Episodes/Episode 5.md",
-    "Episodes/Episode 4.md",
-    "Episodes/Episode 3.md",
-    "Episodes/Episode 2.md",
-    "Episodes/Episode 1.md",
-    "Items/Computer - FR3-d1.md",
-    "Characters/Recurring/Computer - Norris.md",
-    "Characters/Recurring/Computer - Chester.md",
-    "Characters/Recurring/Computer - Augustus.md",
-    "Characters/Other/Nigel Dickerson.md",
+    "Scripts/Episode Template.md",
+    "Scripts/Character Template.md",
+    "Characters/Main/Alice Dyer.md",
+    "Transcripts/Metadata/MAGP01 - First Shift.md",
+    "Transcripts/Raw/MAGP 01 - First Shift_Transcript 2.0.pdf",
+    "MAGP 01 - First Shift_Transcript 2.0.md",
+    "Characters/Actors/Shahan Hamza.md",
+    "Transcripts/Raw/Temp/MAGP 01 - First Shift_Transcript 2.0.pdf",
+    "Transcripts/Metadata/CONFLICT-2024-11-12-07-32-09-INFO_MAGP 01 - First Shift_Transcript 2.0_PDF.md",
+    "Characters/Actors/Alexander J Newall.md",
+    "Characters/Incidentals/Chester.md",
+    "Characters/Main/Teddy Vaughn.md",
+    "Characters/Incidentals/Norris.md",
     "Characters/Main/Lena Kelley.md",
-    "Characters/Main/Samama Khalid.md",
     "Characters/Main/Gwendolyn Bouchard.md",
     "Characters/Main/Colin Becher.md",
-    "Characters/Main/Celia Ripley.md",
-    "Characters/Main/Alice Dyer.md",
-    "Items",
-    "Characters/Other/Georgie Barker.md",
-    "Characters/Other/Gertrude Robinson.md",
-    "Characters/Other/Gerard Keay.md",
-    "Locations/Other",
-    "Locations/Recurring",
-    "Locations/Main",
-    "Locations",
-    "Entities",
-    "Episodes",
-    "Characters/Other",
-    "Characters/Recurring"
+    "Characters/Actors/Jonathan Sims.md",
+    "Characters/Main/Samama Khalid.md",
+    "Characters/Actors/Anusia Battersby.md",
+    "Characters/Actors/Sarah Lambie.md",
+    "Characters/Actors/Ryan Hopevere-Anderson.md",
+    "Characters/Actors/Kazeem Tosin Amore.md",
+    "Characters/Actors/Billie Hindle.md",
+    "Scripts/js/processCharacters.js",
+    "Characters/Actors",
+    "Characters/Incidentals/'RedCanary'.md",
+    "Characters/Recurring/AUGUSTUS.md",
+    "Characters/Other/TEDDY.md",
+    "Characters/Main/CELIA.md",
+    "Transcripts/Metadata/CONFLICT-2024-11-12-07-15-41-INFO_MAGP 01 - First Shift_Transcript 2.0_PDF.md",
+    "Scripts/js/processCases.js",
+    "Scripts/js/processLocations.js",
+    "Transcripts/Raw/Temp/TEST.pdf",
+    "Transcripts/Raw/Temp/Hello {{ FirstName _ default_ 'Friend' }}.pdf",
+    "Transcripts/Raw/Hello {{ FirstName _ default_ 'Friend' }}.pdf",
+    "Transcripts/Hello {{ FirstName _ default_ 'Friend' }}.pdf",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/treeitem-expanded.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/treeitem-collapsed.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/treeitem-expanded@2x.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/treeitem-collapsed@2x.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/treeitem-collapsed-rtl@2x.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/treeitem-collapsed-rtl.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/toolbarButton-zoomOut@2x.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/toolbarButton-zoomOut.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/toolbarButton-viewThumbnail@2x.png",
+    "Scripts/node_modules/pdf-parse/lib/pdf.js/v1.9.426/web/images/toolbarButton-zoomIn@2x.png",
+    "Untitled.canvas"
   ]
 }
